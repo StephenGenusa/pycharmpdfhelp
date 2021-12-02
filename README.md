@@ -8,11 +8,11 @@ This program determines the latest release version of PyCharm help and builds a
 complete help file in PDF format including a full multi-level table of contents
 that mirrors the original web content.
 
-![PyCharm PDF Documentation with ToC](C:\Users\Stephen\PycharmProjects\pycharmpdfhelp\PycharmHelpPDFWithToC.png "Screen capture of PDF")
+![PyCharm PDF Documentation with ToC](PycharmHelpPDFWithToC.png "Screen capture of PDF")
 
 ## Project Notes
-At one time, JetBrains was supplying a PDF but they moved to a plugin that downloads the 
-web content which then gets served up by their internal server.
+At one time JetBrains was supplying a PDF, but they moved to a plugin that downloads the 
+web content which then gets served up by the internal web server running out of PyCharm.
 
 PDF documentation is my preference:
 - One file portability
